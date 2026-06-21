@@ -7,7 +7,7 @@ A machine learning-based movie recommendation system that suggests movies based 
 - **Personalized Recommendations**: Get movie suggestions tailored to your preferences
 - **Content-Based Filtering**: Recommends movies similar to ones you've already watched
 - **Collaborative Filtering**: Finds recommendations from users with similar tastes
-- 
+
 ## Technologies Used
 
 - Python
